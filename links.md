@@ -13,7 +13,7 @@ permalink: LINKS/
 
 * [Five Things Linux Does Better Than Windows](https://www.youtube.com/watch?v=R4OaB3kSiMI) --- A nice-to-know video that helps me understand why we are doing linux in Operating Systems course.
 
-* [Linux Crash Course - awk](https://www.youtube.com/watch?v=oPEnvuj9QrI) --- At first, I thought that "awk" sounds awkward. However, it's actually a powerful text-processing command in and very useful for data extraction and reporting.
+* [Linux Crash Course - awk](https://www.youtube.com/watch?v=oPEnvuj9QrI) --- At first, I thought that "awk" sounds awkward. However, it's actually a powerful text-processing command and very useful for data extraction and reporting.
 
 * [Regular Expression Cheat Sheet](https://docs.linuxfoundation.org/v2/security-service/manage-false-positives/regular-expressions-cheat-sheet) --- How can you use awk without knowing regex? I find that reading documentation like this instead of watching YouTube videos is more effective when learning practical concepts like this. 
 
