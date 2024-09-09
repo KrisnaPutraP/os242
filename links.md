@@ -11,11 +11,13 @@ permalink: LINKS/
 
 * [Basic vi Commands](https://www.cs.colostate.edu/helpdocs/vi.html) --- I recommend this site because it is concise, compact, and clear. This site is also user-friendly for beginners to master the essential vi editor commands. I think that you can make a "cheat sheet" from this site.  
 
-* [Five Things Linux Does Better Than Windows](https://www.youtube.com/watch?v=R4OaB3kSiMI) --- A nice-to-know video that helps me understand why we are doing linux in Operating Systems course.
+* [Five Things Linux Does Better Than Windows](https://www.youtube.com/watch?v=R4OaB3kSiMI) --- A nice-to-know video that helps me understand why we are doing linux in Operating Systems course. I know that linux might be the best OS for programming, but personally I don't recommend it for daily use.
 
 * [Linux Crash Course - awk](https://www.youtube.com/watch?v=oPEnvuj9QrI) --- At first, I thought that "awk" sounds awkward. However, it's actually a powerful text-processing command and very useful for data extraction and reporting.
 
-* [Regular Expression Cheat Sheet](https://docs.linuxfoundation.org/v2/security-service/manage-false-positives/regular-expressions-cheat-sheet) --- How can you use awk without knowing regex? I find that reading documentation like this instead of watching YouTube videos is more effective when learning practical concepts like this. 
+* [Regular Expression Cheat Sheet](https://docs.linuxfoundation.org/v2/security-service/manage-false-positives/regular-expressions-cheat-sheet) --- How can you use awk without knowing regex? I find that reading documentation like this instead of watching YouTube videos is more effective when learning practical concepts like this.
+
+* [5 Key Differences Between GPG and SSH Keys - localhost](https://locall.host/gpg-vs-ssh-key/) --- This site REALLY helps me to understand the difference between GPG and SSH keys. Even though both of them are powerful, but they differ from the use case. If you want to secure authentication to remote servers, then SSH keys are the way to go. However, if you require encryption and signing capabilities for emails or files, then GPG keys would be a better fit.
 
 <br>
 <hr>
