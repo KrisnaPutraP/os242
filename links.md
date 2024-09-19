@@ -19,5 +19,8 @@ permalink: LINKS/
 
 * [5 Key Differences Between GPG and SSH Keys - localhost](https://locall.host/gpg-vs-ssh-key/) --- This site REALLY helps me to understand the difference between GPG and SSH keys. Even though both of them are powerful, but they differ from the use case. If you want to secure authentication to remote servers, then SSH keys are the way to go. However, if you require encryption and signing capabilities for emails or files, then GPG keys would be a better fit.
 
+* [Sudo VS Su: Which is best for Linux?](https://www.youtube.com/watch?v=fjQXPnQyOsw) --- This video is helping me to understand the differences between su and sudo. Now I can use su, su -, and sudo depending on the usecase.
+
+
 <br>
 <hr>
