@@ -21,6 +21,7 @@ permalink: LINKS/
 
 * [Sudo VS Su: Which is best for Linux?](https://www.youtube.com/watch?v=fjQXPnQyOsw) --- This video is helping me to understand the differences between su and sudo. Now I can use su, su -, and sudo depending on the usecase.
 
+* [Linux Directories Explained in 100 Seconds](https://www.youtube.com/watch?v=42iQKuQodW4) --- This video gives me a good understanding of the purpose of the most common Linux directories in just 100 seconds. It turns out that Linux directory isn't too different from Windows directory. Now I can fully understand how my own virtual machine directory works for this entire Operating Systems course.
 
 <br>
 <hr>
