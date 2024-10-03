@@ -23,5 +23,9 @@ permalink: LINKS/
 
 * [Linux Directories Explained in 100 Seconds](https://www.youtube.com/watch?v=42iQKuQodW4) --- This video gives me a good understanding of the purpose of the most common Linux directories in just 100 seconds. It turns out that Linux directory isn't too different from Windows directory. Now I can fully understand how my own virtual machine directory works for this entire Operating Systems course.
 
+* [C Programming Tutorial for Beginners](https://www.youtube.com/watch?v=KJgsSFOSQv0) --- This video helps me to understand the basics of C programming language. On this week assignment, I think I have to learn C language, since some of the assignments require me to script in C. I found C language is quite similar to Java, a language that I've been using for the past year, so I found no difficulty learning it.
+
+* [Makefiles Make Your Life Easier](https://www.youtube.com/watch?v=yWLkyN_Satk) --- I've always wonder why do we need to use Makefile in order to compile our C program. But after I watched this video, I understand that it really helps to decide which parts of a large program need to be recompiled.
+
 <br>
 <hr>
