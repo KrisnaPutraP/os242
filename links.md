@@ -27,5 +27,7 @@ permalink: LINKS/
 
 * [Makefiles Make Your Life Easier](https://www.youtube.com/watch?v=yWLkyN_Satk) --- I've always wonder why do we need to use Makefile in order to compile our C program. But after I watched this video, I understand that it really helps to decide which parts of a large program need to be recompiled.
 
+* [The Origins of Process Memory | Exploring the Use of Various Memory Allocators in Linux C](https://www.youtube.com/watch?v=c7xf5dvUb_Q) --- This week pop quizzes make me curious about how memory addresses are allocated in Linux C. It turns out that I've learned some of the basic concepts from the "Introduction of Computer Organizations" course that I've taken last semester. To be honest, even though I have curiosity on how computer memory works, how an operating system stores memory, I'm not really into those kind of fields.
+
 <br>
 <hr>
