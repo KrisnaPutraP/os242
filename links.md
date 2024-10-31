@@ -29,5 +29,7 @@ permalink: LINKS/
 
 * [The Origins of Process Memory | Exploring the Use of Various Memory Allocators in Linux C](https://www.youtube.com/watch?v=c7xf5dvUb_Q) --- This week pop quizzes make me curious about how memory addresses are allocated in Linux C. It turns out that I've learned some of the basic concepts from the "Introduction of Computer Organizations" course that I've taken last semester. To be honest, even though I have curiosity on how computer memory works, how an operating system stores memory, I'm not really into those kind of fields.
 
+* [Build a Markdown Documentation Site with Docusaurus (Step-by-Step)](https://www.youtube.com/watch?v=2R53Y7eP45k) --- The last two weeks, we have to make a website using Docusaurus. I was wondering what it actually is, because I can make amazing website using it. It turns out that Docusaurus is a static-site generator, and it can helps me build documentation websites, blogs, marketing pages, and many more. This video helps me how to use Docusaurus for building a markdown documentation website.
+
 <br>
 <hr>
