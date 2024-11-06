@@ -1,6 +1,16 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logcodes.txt
+ZCZC W08 200 L02 CLASSROOM/ZOOM meetings related
+ZCZC W08 120 L64 Helping a friend (OS related problem)
+ZCZC W08 05 L43 TXT/myrank.tex related, including peer review.
+ZCZC W08 05 L07 Demo related
+ZCZC W08 20 L24 Scripting in general.
+ZCZC W08 30 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W08 60 L32 YouTube: watching OS related topics, etc.
+ZCZC W08 05 L04 Github Pages Related
+ZCZC W08 180 L09 Assignment in General
+ZCZC W08 10 L62 Install/Reinstall/Restore/Backup Virtual Debian Guest
 ZCZC W07 200 L02 CLASSROOM/ZOOM meetings related
 ZCZC W07 60 L64 Helping a friend (OS related problem)
 ZCZC W07 10 L43 TXT/myrank.tex related, including peer review.

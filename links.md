@@ -31,5 +31,8 @@ permalink: LINKS/
 
 * [Build a Markdown Documentation Site with Docusaurus (Step-by-Step)](https://www.youtube.com/watch?v=2R53Y7eP45k) --- The last two weeks, we have to make a website using Docusaurus. I was wondering what it actually is, because I can make amazing website using it. It turns out that Docusaurus is a static-site generator, and it can helps me build documentation websites, blogs, marketing pages, and many more. This video helps me how to use Docusaurus for building a markdown documentation website.
 
+
+* [Linux from Scratch](https://www.youtube.com/watch?v=oV541sgHKGo) --- This video is my second reference for my assignment this week. The first reference is of course from Kernotex's playlist on the same topic. But, from this video, I learned that patience is key for doing lfs.
+
 <br>
 <hr>
