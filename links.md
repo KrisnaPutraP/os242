@@ -34,5 +34,7 @@ permalink: LINKS/
 
 * [Linux from Scratch](https://www.youtube.com/watch?v=oV541sgHKGo) --- This video is my second reference for my assignment this week. The first reference is of course from Kernotex's playlist on the same topic. But, from this video, I learned that patience is key for doing lfs.
 
+* [I tried 10 code editors](https://www.youtube.com/watch?v=8PhdfcX9tG0) --- This video helps me to choose the right text editor. I've been using vi since the start of this course. But, after watching this video, I might switch to another text editor like Micro.
+
 <br>
 <hr>

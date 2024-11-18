@@ -1,6 +1,12 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logcodes.txt
+ZCZC W09 100 L02 CLASSROOM/ZOOM meetings related
+ZCZC W09 320 L09 Assignment in general
+ZCZC W09 05 L07 Demo related
+ZCZC W09 10 L43 TXT/myrank.tex related, including peer review.
+ZCZC W09 40 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W09 280 L64 Helping a friend (OS related problem)
 ZCZC W08 200 L02 CLASSROOM/ZOOM meetings related
 ZCZC W08 120 L64 Helping a friend (OS related problem)
 ZCZC W08 05 L43 TXT/myrank.tex related, including peer review.
